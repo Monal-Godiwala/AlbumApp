@@ -1,0 +1,5 @@
+Future Improvements
+
+- There could be a search option to search albums by name, id or user id
+- Currently albums are sorted by name. There also could be an option to sort album by id
+- From other APIs, we can fetch the album details and add a screen to show the details on list screen

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlbumApp</string>
+    <string name="message_no_network">Network not available</string>
+</resources>
